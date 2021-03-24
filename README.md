@@ -1,6 +1,6 @@
 # MidTermExamProject
  
-Simple text editor. At the moment you can only read, write(save as) and rewrite(save) documents. No configuration and no styling added
+Simple text editor. At the moment you can only read, write(save as) and rewrite(save) documents. No functionality like finding, copying and searching added
 
 Add new files and edit them
 ![image](https://user-images.githubusercontent.com/81313693/112375790-e7eb9780-8d0d-11eb-829f-1752e17ec832.png)
